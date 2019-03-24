@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553397822 source:f:\haha\3.12\account.cpp
+	"Account.h"
+
+1553397807 f:\haha\3.12\account.h
+	<iostream>
+	<string>
+
+1553397851 source:f:\haha\3.12\main.cpp
+	"Account.h"
+

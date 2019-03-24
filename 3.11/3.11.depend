@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553398084 source:f:\haha\3.11\main.cpp
+	<iostream>
+	<string>
+	"GradeBook.h"
+
+1553357578 f:\haha\3.11\gradebook.h
+	<string>
+	<string>
+
+1553398287 source:f:\haha\3.11\gradebook.cpp
+	<string>
+	<iostream>
+	"GradeBook.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1553424689 source:f:\haha\3.14\main.cpp
+	<iostream>
+	"Employee.h"
+
+1553425031 f:\haha\3.14\employee.h
+	<iostream>
+	<string>
+
+1553425104 source:f:\haha\3.14\employee.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
