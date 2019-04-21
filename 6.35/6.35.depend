@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555836141 source:f:\haha\6.35\main.cpp
+	<iostream>
+	<cstdlib>
+
