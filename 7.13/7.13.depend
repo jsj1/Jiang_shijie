@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556440139 source:f:\haha\7.13\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+
