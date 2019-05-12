@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557655228 source:f:\haha\9.8\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1557655149 f:\haha\9.8\include\date.h
+
+1557655149 source:f:\haha\9.8\main.cpp
+	<iostream>
+	"Date.h"
+

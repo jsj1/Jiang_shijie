@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557656144 source:f:\haha\9.10\main.cpp
+	<iostream>
+	"Time.h"
+
+1557656331 f:\haha\9.10\include\time.h
+
+1557656331 source:f:\haha\9.10\src\time.cpp
+	<iostream>
+	"Time.h"
+

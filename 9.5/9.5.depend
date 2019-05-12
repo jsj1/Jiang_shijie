@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557653564 source:f:\haha\9.5\main.cpp
+	<iostream>
+	"Complex.h"
+
+1557653520 f:\haha\9.5\include\complex.h
+
+1557653513 source:f:\haha\9.5\src\complex.cpp
+	<iostream>
+	"Complex.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557655891 source:f:\haha\9.9\src\dateandtime.cpp
+	<iostream>
+	"DateAndTime.h"
+
+1557655892 f:\haha\9.9\include\dateandtime.h
+

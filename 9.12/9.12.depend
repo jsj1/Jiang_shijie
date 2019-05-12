@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557657273 source:f:\haha\9.12\src\point.cpp
+	"Point.h"
+
+1557657273 f:\haha\9.12\include\point.h
+
+1557657273 source:f:\haha\9.12\src\rectangle.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Rectangle.h"
+
+1557657273 f:\haha\9.12\include\rectangle.h
+	"Point.h"
+
