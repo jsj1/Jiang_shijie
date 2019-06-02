@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1559452485 source:f:\haha\12.13\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Package.h"
+	"TwoDayPackage.h"
+	"OvernightPackage.h"
+
+1559452384 f:\haha\12.13\include\package.h
+	<string>
+
+1559452266 f:\haha\12.13\include\twodaypackage.h
+	"Package.h"
+
+1559452433 f:\haha\12.13\include\overnightpackage.h
+	"Package.h"
+
+1559452811 source:f:\haha\12.13\src\overnightpackage.cpp
+	"OvernightPackage.h"
+
+1559452749 source:f:\haha\12.13\src\package.cpp
+	"Package.h"
+
+1559452531 source:f:\haha\12.13\src\twodaypackage.cpp
+	"TwoDayPackage.h"
+

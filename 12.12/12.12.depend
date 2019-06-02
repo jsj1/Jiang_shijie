@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1559458233 source:f:\haha\12.12\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+
+1559449411 f:\haha\12.12\employee.h
+
+1559450647 f:\haha\12.12\include\salariedemployee.h
+	"Employee.h"
+
+1559458177 f:\haha\12.12\include\employee.h
+	<string>
+	"Date.h"
+
+1559458193 f:\haha\12.12\include\date.h
+	<iostream>
+

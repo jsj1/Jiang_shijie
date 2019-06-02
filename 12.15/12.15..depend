@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1559457015 source:f:\haha\12.15.\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1559457654 f:\haha\12.15.\include\employee.h
+	<string>
+	"Date.h"
+
+1559457651 f:\haha\12.15.\include\date.h
+	<iostream>
+
+1559457809 f:\haha\12.15.\include\salariedemployee.h
+	"Employee.h"
+
+1559456711 f:\haha\12.15.\include\hourlyemployee.h
+	"Employee.h"
+
+1559457256 f:\haha\12.15.\include\commissionemployee.h
+	"Employee.h"
+
+1559455340 f:\haha\12.15.\include\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1559456470 source:f:\haha\12.15.\src\basepluscommissionemloyee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1559456470 source:f:\haha\12.15.\src\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1559456470 source:f:\haha\12.15.\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1559456470 source:f:\haha\12.15.\src\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1559456588 source:f:\haha\12.15.\src\hourlyemployee.cpp
+
+1559456470 source:f:\haha\12.15.\src\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
